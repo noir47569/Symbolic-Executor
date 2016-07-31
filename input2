@@ -1,0 +1,18 @@
+/* 
+I am a comment line
+me too  
+*/
+
+
+if (x>2) {
+  y:=s(x*p);
+}
+else{
+  if (x<2){
+    y:=s(2*x);
+  }
+  else{
+    y:=c(4*x);
+  }
+}
+ 
